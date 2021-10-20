@@ -24,7 +24,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Görsel
 
-![görsel]()
+![görsel](https://github.com/kemal-ozer/kodluyoruzilkrepo/blob/main/figure/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.JPG)
 
 
 
