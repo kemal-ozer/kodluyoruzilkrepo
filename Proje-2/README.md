@@ -1,0 +1,1 @@
+Veri Yapıları ve Algoritmalar dersi kapsamında proje-2 çalışması dosyası.
