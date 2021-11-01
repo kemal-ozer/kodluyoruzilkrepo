@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\Documents\\VSCODE\\kodluyoruzrepo\\csharp\\csharp.csproj": {}
+    "C:\\Users\\Pc\\Documents\\VSCODE\\kodluyoruzrepo\\csharp\\console\\csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\Documents\\VSCODE\\kodluyoruzrepo\\csharp\\csharp.csproj": {
+    "C:\\Users\\Pc\\Documents\\VSCODE\\kodluyoruzrepo\\csharp\\console\\csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Documents\\VSCODE\\kodluyoruzrepo\\csharp\\csharp.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Documents\\VSCODE\\kodluyoruzrepo\\csharp\\console\\csharp.csproj",
         "projectName": "csharp",
-        "projectPath": "C:\\Users\\Pc\\Documents\\VSCODE\\kodluyoruzrepo\\csharp\\csharp.csproj",
+        "projectPath": "C:\\Users\\Pc\\Documents\\VSCODE\\kodluyoruzrepo\\csharp\\console\\csharp.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Documents\\VSCODE\\kodluyoruzrepo\\csharp\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Documents\\VSCODE\\kodluyoruzrepo\\csharp\\console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
