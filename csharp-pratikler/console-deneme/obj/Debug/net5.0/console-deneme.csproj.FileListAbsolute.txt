@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\bin\Debug\net5.0\console-deneme.exe
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\bin\Debug\net5.0\console-deneme.deps.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\bin\Debug\net5.0\console-deneme.runtimeconfig.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\bin\Debug\net5.0\console-deneme.runtimeconfig.dev.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\bin\Debug\net5.0\console-deneme.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\bin\Debug\net5.0\ref\console-deneme.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\bin\Debug\net5.0\console-deneme.pdb
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\obj\Debug\net5.0\console-deneme.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\obj\Debug\net5.0\console-deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\obj\Debug\net5.0\console-deneme.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\obj\Debug\net5.0\console-deneme.AssemblyInfo.cs
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\obj\Debug\net5.0\console-deneme.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\obj\Debug\net5.0\console-deneme.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\obj\Debug\net5.0\ref\console-deneme.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\obj\Debug\net5.0\console-deneme.pdb
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\console-deneme\obj\Debug\net5.0\console-deneme.genruntimeconfig.cache

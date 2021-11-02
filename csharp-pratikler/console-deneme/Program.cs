@@ -4,9 +4,16 @@ namespace console_deneme
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("isminiz gir:");
+            string name = Console.ReadLine();
+            Console.WriteLine("soyadını gir:");
+            string surname = Console.ReadLine();
+
+            Console.WriteLine("merhaba " + name + "  " + surname);
+            
         }
     }
 }
