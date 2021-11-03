@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\bin\Debug\net5.0\operatorler.exe
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\bin\Debug\net5.0\operatorler.deps.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.dev.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\bin\Debug\net5.0\operatorler.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\bin\Debug\net5.0\ref\operatorler.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\bin\Debug\net5.0\operatorler.pdb
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\obj\Debug\net5.0\operatorler.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\obj\Debug\net5.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfo.cs
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\obj\Debug\net5.0\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\obj\Debug\net5.0\operatorler.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\obj\Debug\net5.0\ref\operatorler.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\obj\Debug\net5.0\operatorler.pdb
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\operatorler\obj\Debug\net5.0\operatorler.genruntimeconfig.cache
