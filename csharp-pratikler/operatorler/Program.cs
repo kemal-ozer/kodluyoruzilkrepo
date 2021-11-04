@@ -68,13 +68,7 @@ namespace operatorler
 
             int sonuc2 =20%3;
             Console.WriteLine(sonuc2);
-
-
-
-
-
-
-
+            
         }
     }
 }
