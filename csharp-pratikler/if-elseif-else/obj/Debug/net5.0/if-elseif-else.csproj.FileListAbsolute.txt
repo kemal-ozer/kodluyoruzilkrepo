@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\bin\Debug\net5.0\if-elseif-else.exe
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\bin\Debug\net5.0\if-elseif-else.deps.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\bin\Debug\net5.0\if-elseif-else.runtimeconfig.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\bin\Debug\net5.0\if-elseif-else.runtimeconfig.dev.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\bin\Debug\net5.0\if-elseif-else.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\bin\Debug\net5.0\ref\if-elseif-else.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\bin\Debug\net5.0\if-elseif-else.pdb
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\obj\Debug\net5.0\if-elseif-else.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\obj\Debug\net5.0\if-elseif-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\obj\Debug\net5.0\if-elseif-else.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\obj\Debug\net5.0\if-elseif-else.AssemblyInfo.cs
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\obj\Debug\net5.0\if-elseif-else.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\obj\Debug\net5.0\if-elseif-else.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\obj\Debug\net5.0\ref\if-elseif-else.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\obj\Debug\net5.0\if-elseif-else.pdb
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\if-elseif-else\obj\Debug\net5.0\if-elseif-else.genruntimeconfig.cache
