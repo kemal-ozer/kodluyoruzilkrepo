@@ -1,0 +1,16 @@
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\bin\Debug\net5.0\donguler-foor-loop.exe
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\bin\Debug\net5.0\donguler-foor-loop.deps.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\bin\Debug\net5.0\donguler-foor-loop.runtimeconfig.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\bin\Debug\net5.0\donguler-foor-loop.runtimeconfig.dev.json
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\bin\Debug\net5.0\donguler-foor-loop.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\bin\Debug\net5.0\ref\donguler-foor-loop.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\bin\Debug\net5.0\donguler-foor-loop.pdb
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\obj\Debug\net5.0\donguler-foor-loop.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\obj\Debug\net5.0\donguler-foor-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\obj\Debug\net5.0\donguler-foor-loop.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\obj\Debug\net5.0\donguler-foor-loop.AssemblyInfo.cs
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\obj\Debug\net5.0\donguler-foor-loop.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\obj\Debug\net5.0\donguler-foor-loop.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\obj\Debug\net5.0\ref\donguler-foor-loop.dll
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\obj\Debug\net5.0\donguler-foor-loop.pdb
+C:\Users\Pc\Documents\VSCODE\kodluyoruzrepo\csharp-pratikler\donguler-foor-loop\obj\Debug\net5.0\donguler-foor-loop.genruntimeconfig.cache
